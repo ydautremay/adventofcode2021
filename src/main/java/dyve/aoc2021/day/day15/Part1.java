@@ -13,7 +13,7 @@ import java.util.Map;
 public class Part1 extends Part {
 
     public static void main(String[] args) throws Exception {
-        new Part1().subMain(153);
+        new Part1().subMain(15);
     }
 
     Map<Point, Integer> map = new HashMap<>();
