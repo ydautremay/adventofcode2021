@@ -8,7 +8,7 @@ import java.util.List;
 public class Part1 extends Part {
 
     public static void main(String[] args) throws Exception {
-        new Part1().subMain(16);
+        new Part1().subMain(17);
     }
 
     @Override
